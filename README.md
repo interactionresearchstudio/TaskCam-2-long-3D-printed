@@ -1,6 +1,6 @@
-# ProbeTools TaskCam Prototype 
+# ProbeTools TaskCam 2 Long 3D Printed
 
-These STL files can be used for 3D printing. [Click here](https://a360.co/2qtXSVf) for editable Fusion 360 files.
+These STL files can be used for 3D printing. [Click here](https://a360.co/2r0JovH) for editable Fusion 360 files.
 
 ## Terms of Use
  
